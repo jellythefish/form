@@ -18,6 +18,7 @@ html {
 .container {
     max-width: 600px;
     margin: auto;
+    position: relative;
 }
 
 .header {
@@ -125,4 +126,12 @@ html {
 
 .form__input:invalid:not(:placeholder-shown) + .form__error {
 	display: block;
+}
+
+.profile-pic {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 0;
+    border: 1px solid black;
 }
