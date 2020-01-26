@@ -1,6 +1,6 @@
 # RegExp Form
 
-[![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/jellythefish/form/tree/v1.0.1) 
+[![version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/jellythefish/form/tree/v1.0.2) 
 
 https://jellythefish.github.io/form
 
